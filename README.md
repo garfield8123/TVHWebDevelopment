@@ -10,4 +10,4 @@
 
 ## **Basic Bootstrap Syntax**
 - Showcase basic Bootstrap Elements and logic presented in the workshop
-- [Bootstrap.html] (./Bootstrap.html)
+- [Bootstrap.html](./Bootstrap.html)
